@@ -10,6 +10,7 @@
 #define CYLINDER_MIN 0 
 #define CYLINDER_MAX 199
 
+// requests hard coded in, just for testing purposes; array of any size can be used however
 int requests[REQUEST_SIZE] = {98, 183, 37, 122, 14, 124, 65, 67};
 
 
